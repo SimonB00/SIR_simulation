@@ -1,7 +1,7 @@
 #ifndef PANDEMICS_HPP
 #define PANDEMICS_HPP
 
-inline void Vaticano(int& a, double& b, double& c, double& d){
+inline void Vatican(int& a, double& b, double& c, double& d){
     // R0 = 0.77
     
     a = 10; 
@@ -46,7 +46,7 @@ inline void Ferrara(int& a, double& b, double& c, double& d){
     d = 132000;
 }
 
-inline void Londra(int& a, double& b, double& c, double& d){
+inline void London(int& a, double& b, double& c, double& d){
     // R0 = 4.41
  
     a = 200;
